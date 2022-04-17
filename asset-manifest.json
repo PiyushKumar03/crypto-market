@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crypto-market/static/css/main.1b8c027c.chunk.css",
+    "main.js": "/crypto-market/static/js/main.638fccdf.chunk.js",
+    "main.js.map": "/crypto-market/static/js/main.638fccdf.chunk.js.map",
+    "runtime-main.js": "/crypto-market/static/js/runtime-main.cfe840fb.js",
+    "runtime-main.js.map": "/crypto-market/static/js/runtime-main.cfe840fb.js.map",
+    "static/css/2.a95be28f.chunk.css": "/crypto-market/static/css/2.a95be28f.chunk.css",
+    "static/js/2.c06cc40d.chunk.js": "/crypto-market/static/js/2.c06cc40d.chunk.js",
+    "static/js/2.c06cc40d.chunk.js.map": "/crypto-market/static/js/2.c06cc40d.chunk.js.map",
+    "index.html": "/crypto-market/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/crypto-market/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.1b8c027c.chunk.css.map": "/crypto-market/static/css/main.1b8c027c.chunk.css.map",
+    "static/js/2.c06cc40d.chunk.js.LICENSE.txt": "/crypto-market/static/js/2.c06cc40d.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/crypto-market/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe840fb.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.c06cc40d.chunk.js",
+    "static/css/main.1b8c027c.chunk.css",
+    "static/js/main.638fccdf.chunk.js"
+  ]
+}
